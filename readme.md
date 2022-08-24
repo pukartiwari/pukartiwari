@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Digital Marketer and graphic designer from Nepal</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pukartiwari" alt="pukartiwari" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
