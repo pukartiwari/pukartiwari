@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [pukartiwari.github.io](pukartiwari.github.io)
+- 👨‍💻 All of my projects are available at https://github.com/pukartiwari
 
 - 📫 How to reach me **pukartiwari0@gmail.com**
 
