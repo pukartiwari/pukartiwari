@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [pukartiwari.github.io](pukartiwari.github.io)
 
-- 📝 I regularly write articles on --
-
 - 📫 How to reach me **pukartiwari0@gmail.com**
 
 - 📄 Know about my experiences --
